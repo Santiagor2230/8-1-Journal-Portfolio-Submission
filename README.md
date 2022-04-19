@@ -24,4 +24,4 @@ For future assignments or task the tools that I will use for security methods wi
 
 ## Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
 
-To future employer I will want to address my ability of implementing a certification for a website and ofcourse my full understanding on how to read the dependency check report which is something that is usefull for future jobs I might have.
+To future employer I will want to address my ability of implementing a certification for a website and ofcourse my full understanding on how to read the dependency check report which is something that is usefull for future jobs I might have. Finally, the overal experiences that I have learn which are the step by step process that I implemented to make sure their are multiple layers of security I will demonstrate that knowledge to future employers.
